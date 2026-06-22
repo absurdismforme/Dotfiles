@@ -1,0 +1,1 @@
+/home/swayam/D/fish/config.fish
